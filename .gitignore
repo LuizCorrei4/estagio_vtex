@@ -18,6 +18,7 @@ __pycache__/
 *.log
 flowchart.png
 image.png
+*.pdf
 
 # Documentação interna de planejamento e scaffolding
 contexto/
@@ -27,3 +28,4 @@ primeira_etapa/minhas_impressoes.md
 primeira_etapa/plano_execucao_eda_etapa1.md
 primeira_etapa/bloco*/
 segunda_etapa/tickets/
+relatorio/
