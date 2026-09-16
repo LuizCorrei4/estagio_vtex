@@ -1,0 +1,31 @@
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Arquivos temporários e de sistema
+.DS_Store
+*.log
+flowchart.png
+image.png
+
+# Documentação interna de planejamento e scaffolding
+contexto/
+HANDOFF_SESSAO.md
+prompt_podcast_notebooklm.md
+primeiras_impressoes.md
+primeira_etapa/minhas_impressoes.md
+primeira_etapa/plano_execucao_eda_etapa1.md
+primeira_etapa/bloco*/
+segunda_etapa/tickets/
+segunda_etapa/generate_notebook.py
